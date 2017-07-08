@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{0A72BF77-B044-4FE7-8B4A-D657D1A195E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7645CCA7-D3F4-4063-96E1-D1B2D2785EE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{D5B264E1-69CF-49BA-BDDD-2A66B41961B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{31208057-02A0-420F-A360-4B2D4181B040}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{BAF999DA-C152-479C-ABEE-893C28CC4772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditoriaIndustriaAutomotiva.Domain", "AuditoriaIndustriaAutomotiva.Domain\AuditoriaIndustriaAutomotiva.Domain.csproj", "{9944D5B0-C72D-47AA-A4B0-409E39282CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditoriaIndustriaAutomotiva.Tests", "AuditoriaIndustriaAutomotiva.Tests\AuditoriaIndustriaAutomotiva.Tests.csproj", "{AAD27390-EB9F-4BAF-B429-F39F583FC601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9944D5B0-C72D-47AA-A4B0-409E39282CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9944D5B0-C72D-47AA-A4B0-409E39282CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9944D5B0-C72D-47AA-A4B0-409E39282CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9944D5B0-C72D-47AA-A4B0-409E39282CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD27390-EB9F-4BAF-B429-F39F583FC601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD27390-EB9F-4BAF-B429-F39F583FC601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD27390-EB9F-4BAF-B429-F39F583FC601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD27390-EB9F-4BAF-B429-F39F583FC601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9944D5B0-C72D-47AA-A4B0-409E39282CEE} = {7645CCA7-D3F4-4063-96E1-D1B2D2785EE6}
+		{AAD27390-EB9F-4BAF-B429-F39F583FC601} = {BAF999DA-C152-479C-ABEE-893C28CC4772}
+	EndGlobalSection
+EndGlobal

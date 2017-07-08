@@ -1,0 +1,5 @@
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Domain\bin\Debug\AuditoriaIndustriaAutomotiva.Domain.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Domain\bin\Debug\AuditoriaIndustriaAutomotiva.Domain.pdb
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Domain\obj\Debug\AuditoriaIndustriaAutomotiva.Domain.csprojResolveAssemblyReference.cache
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Domain\obj\Debug\AuditoriaIndustriaAutomotiva.Domain.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Domain\obj\Debug\AuditoriaIndustriaAutomotiva.Domain.pdb
