@@ -3,3 +3,13 @@ f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\b
 f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\obj\Debug\AuditoriaIndustriaAutomotiva.Tests.csprojResolveAssemblyReference.cache
 f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\obj\Debug\AuditoriaIndustriaAutomotiva.Tests.dll
 f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\obj\Debug\AuditoriaIndustriaAutomotiva.Tests.pdb
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.abstractions.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.runner.utility.net35.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.assert.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.core.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.execution.desktop.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.assert.xml
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.core.xml
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Tests\bin\Debug\xunit.execution.desktop.xml
