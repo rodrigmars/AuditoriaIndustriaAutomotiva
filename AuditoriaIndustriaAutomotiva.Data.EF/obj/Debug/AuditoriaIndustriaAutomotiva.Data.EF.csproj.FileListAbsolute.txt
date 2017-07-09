@@ -8,3 +8,5 @@ f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Data.EF
 f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Data.EF\bin\Debug\EntityFramework.xml
 f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
 f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Data.EF\obj\Debug\AuditoriaIndustriaAutomotiva.Data.EF.csprojResolveAssemblyReference.cache
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Data.EF\bin\Debug\AuditoriaIndustriaAutomotiva.Domain.dll
+f:\Laboratorio\AuditoriaIndustriaAutomotiva\AuditoriaIndustriaAutomotiva.Data.EF\bin\Debug\AuditoriaIndustriaAutomotiva.Domain.pdb

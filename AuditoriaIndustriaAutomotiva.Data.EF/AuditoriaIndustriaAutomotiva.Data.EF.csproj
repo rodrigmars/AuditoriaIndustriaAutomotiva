@@ -50,5 +50,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AuditoriaIndustriaAutomotiva.Domain\AuditoriaIndustriaAutomotiva.Domain.csproj">
+      <Project>{9944d5b0-c72d-47aa-a4b0-409e39282cee}</Project>
+      <Name>AuditoriaIndustriaAutomotiva.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

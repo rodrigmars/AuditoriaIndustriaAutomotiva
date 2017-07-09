@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿using AuditoriaIndustriaAutomotiva.Domain.Entities;
+using System.Data.Entity;
 
 namespace AuditoriaIndustriaAutomotiva.Data.EF.Context
 {
@@ -6,7 +7,9 @@ namespace AuditoriaIndustriaAutomotiva.Data.EF.Context
     {
         public AuditoriaDbContext() : base("StringConnection")
         {
-
+            
         }
+
+        public DbSet<Cliente> Clientes { get; set; }
     }
 }
