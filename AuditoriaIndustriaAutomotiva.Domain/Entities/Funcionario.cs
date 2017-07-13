@@ -2,22 +2,22 @@
 
 namespace AuditoriaIndustriaAutomotiva.Domain.Entities
 {
-    public class Fabrica
+    public class Funcionario
     {
-        public Fabrica()
+        public Funcionario()
         {
             AuditData = DateTime.Now;
         }
 
-        public int FabricaId { get; set; }
+        public int FuncionarioId { get; set; }
 
-        public string Setor { get; set; }
+        public string Nome { get; set; }
 
         public DateTime AuditData { get; set; }
 
         public override string ToString()
         {
-            return Setor;
+            return Nome;
         }
     }
 }

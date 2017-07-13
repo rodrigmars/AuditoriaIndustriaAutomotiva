@@ -33,8 +33,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Entities\Cliente.cs" />
+    <Compile Include="Entities\Funcionario.cs" />
     <Compile Include="Entities\Fabrica.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
