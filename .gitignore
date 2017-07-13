@@ -1,0 +1,27 @@
+#GIT-IGNORE
+#PROJETO Auditoria Industria Automotiva
+#
+#
+#
+
+/packages
+
+/AuditoriaIndustriaAutomotiva.Application/bin/Debug
+/AuditoriaIndustriaAutomotiva.Application/bin/Release
+/AuditoriaIndustriaAutomotiva.Application/bin/Debug
+
+/AuditoriaIndustriaAutomotiva.ConsoleApp/bin/Debug
+/AuditoriaIndustriaAutomotiva.ConsoleApp/bin/Release
+/AuditoriaIndustriaAutomotiva.ConsoleApp/obj/Debug
+
+/AuditoriaIndustriaAutomotiva.Data.EF/bin/Debug
+/AuditoriaIndustriaAutomotiva.Data.EF/bin/Release
+/AuditoriaIndustriaAutomotiva.Data.EF/obj/Debug
+
+/AuditoriaIndustriaAutomotiva.Domain/bin/Debug
+/AuditoriaIndustriaAutomotiva.Domain/bin/Release
+/AuditoriaIndustriaAutomotiva.Domain/obj/Debug
+
+/AuditoriaIndustriaAutomotiva.Tests/bin/Debug
+/AuditoriaIndustriaAutomotiva.Tests/bin/Release
+/AuditoriaIndustriaAutomotiva.Tests/obj/Debug
